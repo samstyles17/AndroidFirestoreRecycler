@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457460558193",
+    "project_id": "firestorerecycler-3c8d3",
+    "storage_bucket": "firestorerecycler-3c8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457460558193:android:6be5f1cc303c8460ae6ed0",
+        "android_client_info": {
+          "package_name": "com.example.firestorerecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457460558193-lu403s6r6v9fu7l78tvui79991pjlr7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2_WlbVhTpxrvtD2pjhagAn7oBZdkshU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457460558193-lu403s6r6v9fu7l78tvui79991pjlr7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
